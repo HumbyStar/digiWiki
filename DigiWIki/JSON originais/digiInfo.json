@@ -1,0 +1,66 @@
+{
+   "digimon":[
+      {
+         "name":"Agumon",
+         "Age": "Rookie",
+         "Description": "É um digimon pequeno de altura, forte e musculado. Tem a pele laranja e os olhos verde-claros. Tem uma cauda muito pequena e a sua cabeça e nariz são tão grandes como o seu corpo. O seu nome é deridado de Agu(auarbatana) que significa boca comprida, que corresponde a anatomia da sua cara. Agumon é considerado um dos Digimon mais conhecidos da franquia Digimon e é quase um simbolo da franquia junto com os Digimon principais de cada série. É o companheiro de Tai e apareceu no primeiro episódio de todos os episódios de Digimon, em Digimon Adventure. É um dinossauro muito simpático e coragoso.",
+         "secondImage": "AgumonIMG"
+      },
+      {
+         "name":"Greymon",
+         "Age": "Champion",
+         "Description": "Greymon é o nível campeão do Agumon, ele apareceu no segundo episódio de Digimon Adventure, quando as crianças eleitas estavam a lutar contra Shellmon. O seu nome é Greymon pelo significado de Grey, que quer dizer cinzento, referente a velho e mon de monstro, fazendo o nome Monstro Velho, foi-lhe posto este nome por que foi baseado na aparência dos antigos Dinossauros Terópodes de grandes pés. Também há quem diga que Grey é um sinónimo de Great. Tem um peito e antebraços bastante musculados e um capacete castanho com três chifres, dois nas partes laterais da cabeça e outro no nariz, inclinado para cima.",
+         "secondImage": "GreymonIMG"
+      },
+      {
+         "name":"MetalGreymon",
+         "Age": "Ultimate",
+         "Description": "Metalgreymon é a forma perfeita do Agumon digivoluido com o cartão do valor/coragem do Tai. Foi pela primeira vez visto na batalha contra o Etemon em Digimon Adventure. Depois dessa batalha, Etemon foi destruído e Tai e o Metalgreymon voltaram para o Mundo Real. Este digimon é identico ao Greymon mas foram adicionados enumeros elementos mecânicos como um capacete e braço com garras tipo tridente metálicos, um lançador de mísseis implantado do peito, cabelo vermelho e asas roxas rotas. Os Greymon que querem digivoluir para este digimon têm de derrotar oponentes muito fortes. Os MetalGreymon da Ilha do Ficheiro ficam com a pele descolorada e azul, ganhando atributo vírus e aumentam o seu tempo de vida, os MetalGreymon do Continente do Arquivo digivoluíram mais cuidadosamente, desenvolvendo um poder melhor, estes são laranja e de atributo vacina.",
+         "secondImage": "MetalgreymonIMG"
+      },
+      {
+         "name":"WarGreymon",
+         "Age": "Perfect",
+         "Description": "WarGreymon é a forma Hiper-Campeã do Agumon e foi pela primeira vez visto quando a profecia de uma das ruínas do Mundo Digital foi concretizada, quando Tai foi atingido com a flecha de Luz. É a forma mais forte da espécie Greymon. O seu nome vem de War, guerra e Greymon, como que indicando que é o Greymon preparado para a guerra. É quase impossível de vencê-lo com ataques de um digimon Mega-Campeão. Pode diferir do aspecto geral dos Greymon, forte, enorme e super-musculado, tomando a forma de humanóide mas melhorou muito a sua força e velocidade. Tem os temidos e poderosos MataDramon -uma espécie de espada com dupla lâmina completamente mortal contra digimon da espécie Dramon- como suas garras. Se ele unir os dois pedaços de carapaça nas suas costas, forma o Escudo Feroz, o mais poderoso escudo de todos. Diz-se que quando um verdadeiro herói, que se destaca pelo seu poder dentre todos os outros heróis, acorda para a sua missão, digivolui para WarGreymon.",
+         "secondImage": "WargreymonIMG"
+      },
+      {
+         "name":"Gabumon",
+         "Age": "Rookie",
+         "Description": "Embora seja coberto por uma pele feita de pelo, éclaramente um Digimon Reptile. Devido à sua personalidade extremamente tímida e envergonhada, ele sempre reúne os dados que Garurumon deixa para trás, e as para formar um casaco de pelos para se vestir. Por usar este casaco feito de pelo de Garurumon, étemido por outros Digimon, e além disso seu casaco serve também de proteger seu corpo. Quando se está vestindo a pele de pêlo, a sua personalidade faz uma mudança de 180graus. Seu movimento especial é Fire Petit",
+         "secondImage": "GabumonIMG"
+         
+
+      },
+      {
+          "name":"Garurumon",
+          "Age": "Champion",
+          "Description": "Ele é um digimon Beast que possui aparencia de lobo que tem um pelo branco, prata e azul. Sua pele é tão dura quanto Mithril, que chamado de metal lendario, e desde que suas lâminas, com pontas afiadas, creaceram em seus ombros, qualquer coisa que lhes toque. Como possui um instinto de combate furioso e uma musculatura muito desenvolvida em areas congeladas, bem como sua habiidade de um carnívuro e a precisão para derrubar seus alvos, sendo um digimon temido por outros digimons. No entanto possui uma alta inteligência, e obedece fiamente o seu mestre. Seu movimento especial é Fire Fox um fogo azul de alta temperatura que lança de sua boca",
+          "secondImage": "GarurumonIMG"
+
+       },
+      {
+         "name":"Weregarurumon",
+         "Age": "Ultimate",
+         "Description": "Um digimon beast man que evoluiu a partir de garurumon e tornou-se capaz de andar em duas patas. Mas devido ele se tornar um bipede, ele perdeu sua velocidade e se tornou um digimon tipo comando, com maior poder ofensivo e defensivo e desenvolvento uma natureza tática. Seus chutes, que liberam a força herdada de garurumon, são bastante fortes, e da uma grande capacidade de saltos, sendo esses um dos melhores entre os digimons. Além disso é muito leal e tem uma natureza confiavel, executando fielmente a ordem que seu dono dá. Seu ataque especial é Kaiser nail que corta o adversario em pedaços, com suas garras afiadas",
+         "secondImage": "WeregarurumonIMG"
+
+      },
+      {
+         "name":"Metalgarurumon",
+         "Age": "Perfect",
+         "Description": "Aumentando o poder, com o seu corpo coberto de metal, é a forma final de Garurumon. Não só manteve seu entusiasmon natural, quando se metalizou, mas também pode pulverizar o oponente com inumeras armas escondidas em seu corpo. Ele possui lasers invisiveis que são irradiadas das quatro miras na ponta de seu nariz, que são capazes de analisar as metas antes de usar todos os sensores, tais como raio X e infravermelhos, diz qu é impossivel escapar de MetalGarurumon, mesmo se entrar na escuridão e escapar de seu campo de visão. Além disso, ele pode usar as asas em suas costas que produzem um feixe, que permitem ele voar em alta velocidade pela net-space. No seu ataque cocytus breath ele lança uma rajada congelante de zero absoluto que congela completamente tudo, e qualquer coisa que for atingida por esse ataque terá, uma parada brusca em suas funções vitais",
+         "secondImage": "MetalgarurumonIMG"
+      }
+   ]
+}
+
+
+
+
+    
+
+
+
+        
+        

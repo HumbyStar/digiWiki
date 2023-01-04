@@ -1,0 +1,432 @@
+{
+   "DigimonSeries":[
+      {
+         "name":"Digimon Adventure",
+         "year":"6 de março de 1999",
+         "episodes":54,
+         "description":"Sete crianças estão num acampamento de verão quando, inesperadamente, uns estranhos aparelhos caem do céu – os digivices (digital devices ou dispositivos digitais) e elas são transportadas para o Mundo Digital (Digimundo), mais propriamente para uma ilha conhecida como Ilha Arquivo. Cada uma das crianças conhece um digimon que se torna seu companheiro. Para tentarem regressar a casa, as crianças percebem que existem digimons bons e digimons maus. Eles iniciam uma luta contra os inimigos que pretendem dominar o Mundo Digital com a força da Escuridão, contando com a ajuda dos seus digimons que, com o passar do tempo, se tornam mais poderosos e conseguem se converter em criaturas maiores e mais fortes.",
+         "watchEpisodes": [
+             {
+                "name": "Digimon Adventure",
+                "episodio":"Episódio 01",
+                "title": "Férias de Verão",
+                "URL": "https://drive.google.com/uc?export=open&id=1dSzVzS4MdiPIM3Qa2d0H2axSYMA_mZth"
+             },
+             {
+                "name": "Digimon Adventure",
+                "episodio":"Episódio 02",
+                "title": "Nasce Greymon",
+                "URL": "https://drive.google.com/uc?export=open&id=1Fil7ly_OSxgcfWVnerAUGXzSQpoo49Bi"
+             },
+             {
+                "name": "Digimon Adventure",
+                "episodio":"Episódio 03",
+                "title": "Nasce Garurumon",
+                "URL": "https://drive.google.com/uc?export=open&id=1YD-seMSJNmPnV6M5-Ns5t1Lk0oEo6KVO"
+             },
+             {
+                "name": "Digimon Adventure",
+                "episodio":"Episódio 04",
+                "title": "Sora em Perigo",
+                "URL": "https://drive.google.com/uc?export=open&id=1HsSO8mjsnZILiWgoOGIrSXxnqh1gxsmp"
+             },
+             {
+                "name": "Digimon Adventure",
+                "episodio":"Episódio 05",
+                "title": "Nasce Kabuterimon",
+                "URL": "https://drive.google.com/uc?export=open&id=1VQz-40aLW8nZl4DYtd9SMX5eoF277yTg"
+             },
+             {
+                "name": "Digimon Adventure",
+                "episodio":"Episódio 06",
+                "title": "É a vez de Palmon Digitransformar",
+                "URL": "https://drive.google.com/uc?export=open&id=1N2z3Or7WYehoOXOar3l77DhMD5JNrR3P"
+             },
+             {
+                "name": "Digimon Adventure",
+                "episodio":"Episódio 07",
+                "title": "A fúria de gomamon",
+                "URL": "https://drive.google.com/uc?export=open&id=1UxNc3VBWBMrkJnBLxCwyJi8R1zxJ6XqG"
+             },
+             {
+                "name": "Digimon Adventure",
+                "episodio":"Episódio 08",
+                "title": "Devimon, mensageiro das trevas",
+                "URL": "https://drive.google.com/uc?export=open&id=1Mw7HAhrhOAFbzOrF6n6DmVWFLCBwZ8AT"
+             },
+             {
+                "name": "Digimon Adventure",
+                "episodio":"Episódio 09",
+                "title": "Yukidarumon o Digimon do Frio",
+                "URL": "https://drive.google.com/uc?export=open&id=1T_Kf2KmxHS0CKcqflx94pCb-DYhOKNO1"
+             },
+             {
+                "name": "Digimon Adventure",
+                "episodio":"Episódio 10",
+                "title": "Kentarumon o Guardião",
+                "URL": "https://drive.google.com/uc?export=open&id=1y37LirAnYWZDBa_iQYCcPCN42PaG7vv0"
+             },
+             {
+                "name": "Digimon Adventure",
+                "episodio":"Episódio 11",
+                "title": "Bakemon o Fantasma dançante",
+                "URL": "https://drive.google.com/uc?export=open&id=1nfE2pgnfJ1WJu5bohajCfgyD5rq7F2Bf"
+             },
+             {
+                "name": "Digimon Adventure",
+                "episodio":"Episódio 12",
+                "title": "Patamon e eu",
+                "URL": "https://drive.google.com/uc?export=open&id=1gHw8YAHCVFEG0SjbisSlcRqZzaoVtlj4"
+             },
+             {
+                "name": "Digimon Adventure",
+                "episodio":"Episódio 13",
+                "title": "A vez de patamon",
+                "URL": "https://drive.google.com/uc?export=open&id=1JbSoqP-qKcDcHA-G06urSKM9Q-ISWYdQ"
+             },
+             {
+                "name": "Digimon Adventure",
+                "episodio":"Episódio 14",
+                "title": "Atravessando o Oceano",
+                "URL": "https://drive.google.com/uc?export=open&id=1Ovd6NCtxQ39P99Zu7c7Z5yKhXaVJsVfq"
+             },
+             {
+                "name": "Digimon Adventure",
+                "episodio":"Episódio 15",
+                "title": "Etemon e o primeiro Brasão",
+                "URL": "https://drive.google.com/uc?export=open&id=17JzZLjF7-Sa4RWe28O7R6VIMojtMwNQE"
+             },
+             {
+                "name": "Digimon Adventure",
+                "episodio":"Episódio 16",
+                "title": "Greymon contra Etemon",
+                "URL": "https://drive.google.com/uc?export=open&id=11uipnnVr4MbybmTNvz0feybNywcZwa68"
+             },
+             {
+                "name": "Digimon Adventure",
+                "episodio":"Episódio 17",
+                "title": "Capitão Cockatrimon",
+                "URL": "https://drive.google.com/uc?export=open&id=1gZTbZ8faVIhzLRFQElU5DyvW-J7jrf5b"
+             },
+             {
+                "name": "Digimon Adventure",
+                "episodio":"Episódio 18",
+                "title": "Picklemon a Digimon Fada Madrinha",
+                "URL": "https://drive.google.com/uc?export=open&id=1tB5ANOUKTSfN0eBVAyCuB7hTHNaPlx4h"
+             },
+             {
+                "name": "Digimon Adventure",
+                "episodio":"Episódio 19",
+                "title": "Nanomon no Labirinto",
+                "URL": "https://drive.google.com/uc?export=open&id=1L0n0Wh5-iJ7exnbEipFovhDjacOPBiVW"
+             },
+             {
+                "name": "Digimon Adventure",
+                "episodio":"Episódio 20",
+                "title": "O Nascimento de MetalGreymon",
+                "URL": "https://drive.google.com/uc?export=open&id=1Z5es4V9XE4Euk0saE9u-pbqpo9L9Dc6b"
+             },
+             {
+                "name": "Digimon Adventure",
+                "episodio":"Episódio 21",
+                "title": "Temporariamente em Casa",
+                "URL": "https://drive.google.com/uc?export=open&id=1IvylJA9wOniGyjCPq42DHGOQgcMX5tdj"
+             },
+             {
+                "name": "Digimon Adventure",
+                "episodio":"Episódio 22",
+                "title": "PicoDevimon o vilão danadinho",
+                "URL": "https://drive.google.com/uc?export=open&id=1aZgvHOEvd4dgE-MKeq_T2VNAnSlBvJmL"
+             },
+             {
+                "name": "Digimon Adventure",
+                "episodio":"Episódio 23",
+                "title": "Meu amigo Weregarurumon",
+                "URL": "https://drive.google.com/uc?export=open&id=1Ugp4QXZ5F57mxYumT9CrvFeYoZNiOFJ4"
+             },
+             {
+                "name": "Digimon Adventure",
+                "episodio":"Episódio 24",
+                "title": "O triunfo de AtlurKabuterimon",
+                "URL": "https://drive.google.com/uc?export=open&id=1LFps8CCiwToN_xyeEUQC9flrOwEi4r-s"
+             },
+             {
+                "name": "Digimon Adventure",
+                "episodio":"Episódio 25",
+                "title": "Ekomon Shogun o Tirano",
+                "URL": "https://drive.google.com/uc?export=open&id=1kICCPkvklKmbdQiVM97MkmfpCz0lh5Xi"
+             },
+             {
+                "name": "Digimon Adventure",
+                "episodio":"Episódio 26",
+                "title": "Garudamon a perfeição de Birdramon",
+                "URL": "https://drive.google.com/uc?export=open&id=1po8GBa6po3Mn6A-MUMNRf1znm7sgZcvl"
+             },
+             {
+                "name": "Digimon Adventure",
+                "episodio":"Episódio 27",
+                "title": "Castelo Mágico de Myostismon",
+                "URL": "https://drive.google.com/uc?export=open&id=1S3EKPZcP6HJOIyH_WZKFXc1Y44cBgcKF"
+             },
+             {
+                "name": "Digimon Adventure",
+                "episodio":"Episódio 28",
+                "title": "Voltando para o japão",
+                "URL": "https://drive.google.com/uc?export=open&id=1gdG3xyHQ_PuzyKTXSDAJKOQs54Mrv9nU"
+             },
+             {
+                "name": "Digimon Adventure",
+                "episodio":"Episódio 29",
+                "title": "A primeira Batalha no japão",
+                "URL": "https://drive.google.com/uc?export=open&id=1q0me6HVqmDUlG-dXgxy16tR6OyMO7lbI"
+             },
+             {
+                "name": "Digimon Adventure",
+                "episodio":"Episódio 30",
+                "title": "Longa viagem para casa",
+                "URL": "https://drive.google.com/uc?export=open&id=1dSzVzS4MdiPIM3Qa2d0H2axSYMA_mZth"
+             },
+             {
+                "name": "Digimon Adventure",
+                "episodio":"Episódio 31",
+                "title": "O Monstro violento",
+                "URL": "https://drive.google.com/uc?export=open&id=187vZ151rBXbTv_lxIqBzImE5f3uHkZwg"
+             },
+             {
+                "name": "Digimon Adventure",
+                "episodio":"Episódio 32",
+                "title": "Batalha na Torre de Tóquio",
+                "URL": "https://drive.google.com/uc?export=open&id=1JD_wNU_CLpwWJY4Yx9k-9-2yN6SXsCKt"
+             },
+             {
+                "name": "Digimon Adventure",
+                "episodio":"Episódio 33",
+                "title": "Digimons na Cidade dos Jovens",
+                "URL": "https://drive.google.com/uc?export=open&id=1MgCuyU6bKAKg9uVJ_g3ChjqE911s6Awg"
+             },
+             {
+                "name": "Digimon Adventure",
+                "episodio":"Episódio 34",
+                "title": "O Destino Misterioso de Tailmon",
+                "URL": "https://drive.google.com/uc?export=open&id=1MdGnZ6vhrAL5MKj2-7-mr51Yh3roOPn1"
+             },
+             {
+                "name": "Digimon Adventure",
+                "episodio":"Episódio 35",
+                "title": "Palmon Digivolve para Lilimon",
+                "URL": "https://drive.google.com/uc?export=open&id=1QjNeei-A9nyRLHb8A_gF7lrFHskYMIK1"
+             },
+             {
+                "name": "Digimon Adventure",
+                "episodio":"Episódio 36",
+                "title": "A Super Digitransformação de Gomamon",
+                "URL": "https://drive.google.com/uc?export=open&id=1l9-MsJvEEml_YHE5Y3rd7AALimQ_gy8g"
+             },
+             {
+                "name": "Digimon Adventure",
+                "episodio":"Episódio 37",
+                "title": "A Super Digitransformação de Tailmon",
+                "URL": "https://drive.google.com/uc?export=open&id=1c-dqpTNho3vjfvFrx-5mxVoKqcSSi2Na"
+             },
+             {
+                "name": "Digimon Adventure",
+                "episodio":"Episódio 38",
+                "title": "Venon Myostismon a Besta",
+                "URL": "https://drive.google.com/uc?export=open&id=1CZi4kt2umnfOAs8O7rQEYIkS3KszvpqZ"
+             },
+             {
+                "name": "Digimon Adventure",
+                "episodio":"Episódio 39",
+                "title": "Dois Mundos Unidos",
+                "URL": "https://drive.google.com/uc?export=download&id=1Z4q5KGfWYFs6_T5VgtK_uyJWX1K7A9eN"
+             },
+             {
+                "name": "Digimon Adventure",
+                "episodio":"Episódio 40",
+                "title": "Mestres das trevas x DigiEscolhidos",
+                "URL": "https://drive.google.com/uc?export=download&id=1Fley-W9Y3-t304o9c9jZVqxMi46KykEW"
+             },
+             {
+                "name": "Digimon Adventure",
+                "episodio":"Episódio 41",
+                "title": "A Vingança de MetalSeadramon",
+                "URL": "https://drive.google.com/uc?export=download&id=1xZ6KK-7hJzpn0C_eFnQ-eAuwKMADL22H"
+             },
+             {
+                "name": "Digimon Adventure",
+                "episodio":"Episódio 42",
+                "title": "Obrigado Whamon",
+                "URL": "https://drive.google.com/uc?export=download&id=1KBKWwJK2COHH3yCCLsi5hp5k7YDdCUIZ"
+             },
+             {
+                "name": "Digimon Adventure",
+                "episodio":"Episódio 43",
+                "title": "Pinocchimon brincando de Matar",
+                "URL": "https://drive.google.com/uc?export=download&id=1VV8RJTiaeoMPtTo9G3hFJWZn3KIjSAu6"
+             },
+             {
+                "name": "Digimon Adventure",
+                "episodio":"Episódio 44",
+                "title": "O Misterioso Jyureimon",
+                "URL": "https://drive.google.com/uc?export=download&id=1jGgCQ1VBSXPxjL6DXRGNrGp375WKE_y-"
+             },
+             {
+                "name": "Digimon Adventure",
+                "episodio":"Episódio 45",
+                "title": "Wargreymon x Metalgarurumon",
+                "URL": "https://drive.google.com/uc?export=download&id=1f8Admb2wgnkkQsJMMWz_TimQzxk0xnZJ"
+             },
+             {
+                "name": "Digimon Adventure",
+                "episodio":"Episódio 46",
+                "title": "A Vingança de Etemon",
+                "URL": "https://drive.google.com/uc?export=download&id=14HgzNqL2zLffWRMYS4jLh23YHk7P1wrO"
+             },
+             {
+                "name": "Digimon Adventure",
+                "episodio":"Episódio 47",
+                "title": "Adeus Leomon",
+                "URL": "https://drive.google.com/uc?export=download&id=17fxWJRRJsJ75zm6rT-FaUyWJZ26MH5CK"
+             },
+             {
+                "name": "Digimon Adventure",
+                "episodio":"Episódio 48",
+                "title": "Kari em Perigo",
+                "URL": "https://drive.google.com/uc?export=download&id=1z9c0r7zCXG5eN1oimBkN0kEaF-XF4DYw"
+             },
+             {
+                "name": "Digimon Adventure",
+                "episodio":"Episódio 49",
+                "title": "O fim de Mugendramon",
+                "URL": "https://drive.google.com/uc?export=download&id=1A8QrxcOFDeOD_68TmihXiRpB9fkIeTnZ"
+             },
+             {
+                "name": "Digimon Adventure",
+                "episodio":"Episódio 50",
+                "title": "LadyDevilmon",
+                "URL": "https://drive.google.com/uc?export=download&id=1Esh8SJwY8inM02L_tahRn4_kM6sWU4d9"
+             },
+             {
+                "name": "Digimon Adventure",
+                "episodio":"Episódio 51",
+                "title": "Mente nas Trevas",
+                "URL": "https://drive.google.com/uc?export=download&id=1Mn7PuwtGPPTQo0XNvdb8GZv7dOtWxMoO"
+             },
+             {
+                "name": "Digimon Adventure",
+                "episodio":"Episódio 52",
+                "title": "O Fim de Piedmon",
+                "URL": "https://drive.google.com/uc?export=download&id=18Bc-DDTXBTXmVHt0AtV_RCD3k-zGpfmc"
+             },
+             {
+                "name": "Digimon Adventure",
+                "episodio":"Episódio 53",
+                "title": "O Pior Inimigo",
+                "URL": "https://drive.google.com/uc?export=download&id=1p4EeUU56CecZZ_TRjQ0W6NJwZxnTqOzN"
+             },
+             {
+                "name": "Digimon Adventure",
+                "episodio":"Episódio 54",
+                "title": "Adeus Novo Mundo",
+                "URL": "https://drive.google.com/uc?export=download&id=1oKCzTnmIMXEY3ucsGxKETtoQ3pos6BjT"
+             }
+       ]
+
+      },
+      {
+         "name":"Digimon Adventure 2",
+         "year":"8 de julho de 2000",
+         "episodes":50,
+         "description":"A segunda temporada de Digimon traz a segunda geração dos digiescolhidos em uma turma composta por Daisuke, Iori, Miyako, Hikari e Takeru. Os digiescolhidos veteranos dão uma mãozinha para os novatos, e a nova turma de digiescolhidos se vira enfrentando desafios cada vez mais difíceis. Os desafios não são poucos, surgem novas formas de digievolução, novos e mais fortes inimigos. Mas o objetivo é o mesmo: manter o equilíbrio entre o Digimundo e o Mundo Real.",
+         "watchEpisodes": [
+             {
+                "name": "Digimon Adventure",
+                "episodio":"Episódio 01",
+                "title": "Férias de Verão",
+                "URL": "https://drive.google.com/uc?export=open&id=1dSzVzS4MdiPIM3Qa2d0H2axSYMA_mZth"
+             },
+             {
+                "name": "Digimon Adventure",
+                "episodio":"Episódio 02",
+                "title": "Nasce Greymon",
+                "URL": "https://drive.google.com/uc?export=open&id=1Fil7ly_OSxgcfWVnerAUGXzSQpoo49Bi"
+             }]
+      },
+      {
+         "name":"Digimon Tamers",
+         "year":"14 de julho de 2001",
+         "episodes":51,
+         "description":"Matsuda Takato, Makino Ruki e Lee Jianliang são crianças que, por acaso receberam Digimons de verdade, ao contrário dos imaginários que só existem nos jogos de cartas. Cada uma das crianças ou “Domadores de Digimon”, tem seus diferentes pontos de vista sobre como seu Digimon deve ser tratado. Mas quando outros Digimons começam a aparecer no Japão, elas devem ignorar suas diferenças para deter os invasores; apesar de Yamaki, que é diretor de uma agência secreta chamada Hypnos, estar tentando destruir todos os Digimons.",
+         "watchEpisodes": [
+             {
+                "name": "Digimon Adventure",
+                "episodio":"Episódio 01",
+                "title": "Férias de Verão",
+                "URL": "https://drive.google.com/uc?export=open&id=1dSzVzS4MdiPIM3Qa2d0H2axSYMA_mZth"
+             },
+             {
+                "name": "Digimon Adventure",
+                "episodio":"Episódio 02",
+                "title": "Nasce Greymon",
+                "URL": "https://drive.google.com/uc?export=open&id=1Fil7ly_OSxgcfWVnerAUGXzSQpoo49Bi"
+             }]
+      },
+      {
+         "name":"Digimon Frontier",
+         "year":"20 de julho de 2002",
+         "episodes":50,
+         "description":"Digimon Frontier Dublado Todos os Episodios Online, Assistir Digimon Frontier anime completo, Assistir Digimon Frontier online. Com cinco novos garotos e uma missão nova e excitante no mundo digital, Digimon Frontier traz de volta toda a ação e aventura de grande nas últimas três temporadas. Takuya, Kouji, Izumi, Junpei. Tomoki e se encontram em um trem que os leva para o mundo digital, onde uma guerra contra o mal está sendo combatido. O digimon Angel, Cherubimon, um dos três anjos enviados para salvar o mundo do Lucemon sedento de poder, virou-se para o lado escuro e todo o Mundo Digital está em perigo. Para combater esta grande batalha, os cinco escolhidos deve encontrar o Densetsu no Espírito (Espírito Legendary).",
+         "watchEpisodes": [
+             {
+                "name": "Digimon Adventure",
+                "episodio":"Episódio 01",
+                "title": "Férias de Verão",
+                "URL": "https://drive.google.com/uc?export=open&id=1dSzVzS4MdiPIM3Qa2d0H2axSYMA_mZth"
+             },
+             {
+                "name": "Digimon Adventure",
+                "episodio":"Episódio 02",
+                "title": "Nasce Greymon",
+                "URL": "https://drive.google.com/uc?export=open&id=1Fil7ly_OSxgcfWVnerAUGXzSQpoo49Bi"
+             }]
+      },
+      {
+         "name":"Digimon Data Squad",
+         "year":"9 de Dezembro de 2006",
+         "episodes":48,
+         "description":"Digimon Data Squad ou Digimon Savers marca a 5ª temporada da série Digimon. Com novos conceitos e novas aberturas. O nome do protagonista é Daimon Masaru, um estudante de 14 anos do segundo ano colegial, invicto em batalhas. Embora falte habilidade com computadores e tecnologia, seu pai é a autoridade principal no “Mundo Digital” em pesquisa. Masaru encontra o digimon Agumon, que escapou de DATS (Análise Digital e Esquadra de Prova), uma organização secreta do governo. Apesar de terríveis primeiras impressões, os dois tornam-se melhores amigos. Com os outros membros do DATS, o trabalho de Masaru e Agumon é investigar vários incidentes envolvendo os Monstros Digitais no mundo real. Acompanhe Masaru nessa nova jornada onde agora os humanos ameaçam o Mundo Digital. ",
+         "watchEpisodes": [
+             {
+                "name": "Digimon Adventure",
+                "episodio":"Episódio 01",
+                "title": "Férias de Verão",
+                "URL": "https://drive.google.com/uc?export=open&id=1dSzVzS4MdiPIM3Qa2d0H2axSYMA_mZth"
+             },
+             {
+                "name": "Digimon Adventure",
+                "episodio":"Episódio 02",
+                "title": "Nasce Greymon",
+                "URL": "https://drive.google.com/uc?export=open&id=1Fil7ly_OSxgcfWVnerAUGXzSQpoo49Bi"
+             }]
+      },
+      {
+         "name":"Digimon Fusion",
+         "year":"21 de Junho de 2010",
+         "episodes":30,
+         "description":"Tudo começa com uma visão. Um sonho… Onde o conhecido Império Bagura, equipe de Digimons que quer dominar o DigiMundo, está devastando tudo o que há pela frente, quando aparecem, no alto de uma montanha, um garoto chamado Taiki Kudou e um grupo de Digimons. Taiki usa um estranho dispositivo e une os Digimons que o acompanham em um único e forte Digimon guerreiro que carrega uma grande espada e… O sonho acaba incompleto. Taiki acorda, mas logo descobre que há algo de errado: o mundo está sendo todo distorcido. Taiki e seus amigos acabam sendo transportados para o DigiMundo e ele percebe que aquilo não foi apenas um sonho. ",
+         "watchEpisodes": [
+             {
+                "name": "Digimon Adventure",
+                "episodio":"Episódio 01",
+                "title": "Férias de Verão",
+                "URL": "https://drive.google.com/uc?export=open&id=1dSzVzS4MdiPIM3Qa2d0H2axSYMA_mZth"
+             },
+             {
+                "name": "Digimon Adventure",
+                "episodio":"Episódio 02",
+                "title": "Nasce Greymon",
+                "URL": "https://drive.google.com/uc?export=open&id=1Fil7ly_OSxgcfWVnerAUGXzSQpoo49Bi"
+             }]
+      }
+   ]
+}

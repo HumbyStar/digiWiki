@@ -1,0 +1,52 @@
+[
+    {
+        "answer":"Quais são os dois digimons protagonistas da série Digimon Adventure?",
+        "options":["Agumon e Gabumon", "Tentomon e Piyomon", "Patamon e Bombmon", "Armadimon e Gomamon"],
+        "correctAnswer": "Agumon e Gabumon"
+    },
+    {
+        "answer":"Qual é o nome da evolução do Agumon em Digimon Adventure?",
+        "options":["Otamamon", "ClearAgumon","Lopmon", "Greymon"],
+        "correctAnswer": "Greymon"
+    },
+    {
+        "answer":"Caso um V-mon receba o ovo do milagre, qual será o nome do digimon que irá evoluir?",
+        "options":["GoldV-dramon", "Magnamon","Gargomon", "Depthmon"],
+        "correctAnswer": "Magnamon"
+    },
+    {
+        "answer":"Se um Patamon receber um ovo da Esperança qual o nome do Digimon que irá surgir?",
+        "options":["Prairiemon", "Manbomon","Pegasmon", "Angemon"],
+        "correctAnswer": "Pegasmon"
+    },
+    {
+        "answer":"Para surgir o Shoutmon X3 quais são os Digimons necessários?",
+        "options":["Agumon e Shoutmon", "DarkVolumon e Shoutmon","Shoutmon, Ballistamon e Dorulumon", "Agumon, Gabumon e V-mon "],
+        "correctAnswer": "Shoutmon, Ballistamon e Dorulumon"
+    },
+    {
+        "answer":"Qual Digimon mais poderoso que apareceu em Digimon Frontier?",
+        "options":["Agnimon", "KaiserGreymon","Lucemon", "Susanoomon"],
+        "correctAnswer": "Susanoomon"
+    },
+    {
+        "answer":"Na Franquia Digimon Tamers qual a evolução final de Guilmon?",
+        "options":["Starmon Omega Shouto", "Wargreymon","Omegamon", "Dukemon Crimson Mode"],
+        "correctAnswer": "Dukemon Crimson Mode"
+    },
+    {
+        "answer":"Em qual franquia de digimon, houve um crossover aparecendo quase todos protagonistas da série digimon?",
+        "options":["Digimon Frontier", "Digimon Tamers","Digimon Xros Wars", "Digimon 8"],
+        "correctAnswer": "Digimon Xros Wars"
+    },
+    {
+        "answer":"Qual é o nome da evolução final de Agumon em Digimon Data Squad?",
+        "options":["Shinegreymon Burst Mode", "Wargreymon Factor X","OmegaAgumon", "Dukemon Crimson Mode"],
+        "correctAnswer": "Shinegreymon"
+    },
+    {
+        "answer":"Qual é o Digimon mais da franquia Digimon Adventure 02?",
+        "options":["V-mon", "Wargreymon","Omegamon", "Imperialdramon Paladin Mode"],
+        "correctAnswer": "Imperialdramon Paladin Mode"
+    }
+]
