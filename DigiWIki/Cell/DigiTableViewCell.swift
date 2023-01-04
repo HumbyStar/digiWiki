@@ -1,10 +1,3 @@
-//
-//  DigiTableViewCell.swift
-//  DigiWIki
-//
-//  Created by Humberto Rodrigues on 30/11/22.
-//
-
 import UIKit
 
 
