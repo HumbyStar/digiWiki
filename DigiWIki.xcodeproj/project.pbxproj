@@ -24,8 +24,6 @@
 		0CB70A65294657580008E0E9 /* DigiViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CB70A64294657580008E0E9 /* DigiViewController.swift */; };
 		0CB70A67294694CF0008E0E9 /* QuizViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CB70A66294694CF0008E0E9 /* QuizViewController.swift */; };
 		0CB70A69294694D60008E0E9 /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CB70A68294694D60008E0E9 /* ResultViewController.swift */; };
-		0CB70A70294750A50008E0E9 /* music1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0CB70A6E294750A50008E0E9 /* music1.mp3 */; };
-		0CB70A71294750A50008E0E9 /* music2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0CB70A6F294750A50008E0E9 /* music2.mp3 */; };
 		0CB70A75294751540008E0E9 /* digi.json in Resources */ = {isa = PBXBuildFile; fileRef = 0CB70A73294751540008E0E9 /* digi.json */; };
 		0CB70A772947558D0008E0E9 /* quiz.json in Resources */ = {isa = PBXBuildFile; fileRef = 0CB70A762947558D0008E0E9 /* quiz.json */; };
 		0CEDE6CE293833B700F90D4F /* DigiTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CEDE6CD293833B700F90D4F /* DigiTableViewCell.swift */; };
@@ -52,8 +50,6 @@
 		0CB70A64294657580008E0E9 /* DigiViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DigiViewController.swift; sourceTree = "<group>"; };
 		0CB70A66294694CF0008E0E9 /* QuizViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuizViewController.swift; sourceTree = "<group>"; };
 		0CB70A68294694D60008E0E9 /* ResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
-		0CB70A6E294750A50008E0E9 /* music1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = music1.mp3; path = "../../../../../Downloads/Digimon Arquivos/music1.mp3"; sourceTree = "<group>"; };
-		0CB70A6F294750A50008E0E9 /* music2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = music2.mp3; path = "../../../../../Downloads/Digimon Arquivos/music2.mp3"; sourceTree = "<group>"; };
 		0CB70A73294751540008E0E9 /* digi.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = digi.json; path = DigiWIki/digi.json; sourceTree = SOURCE_ROOT; };
 		0CB70A762947558D0008E0E9 /* quiz.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = quiz.json; path = "DigiWIki/JSON originais/quiz.json"; sourceTree = SOURCE_ROOT; };
 		0CEDE6CD293833B700F90D4F /* DigiTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DigiTableViewCell.swift; sourceTree = "<group>"; };
@@ -126,8 +122,6 @@
 			children = (
 				0CB70A73294751540008E0E9 /* digi.json */,
 				0CB70A762947558D0008E0E9 /* quiz.json */,
-				0CB70A6E294750A50008E0E9 /* music1.mp3 */,
-				0CB70A6F294750A50008E0E9 /* music2.mp3 */,
 			);
 			path = file;
 			sourceTree = "<group>";
@@ -208,12 +202,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0CB70A71294750A50008E0E9 /* music2.mp3 in Resources */,
 				0C1A94C62936C2EB00CA9BD2 /* LaunchScreen.storyboard in Resources */,
 				0CB70A772947558D0008E0E9 /* quiz.json in Resources */,
 				0C1A94C32936C2EB00CA9BD2 /* Assets.xcassets in Resources */,
 				0CB70A75294751540008E0E9 /* digi.json in Resources */,
-				0CB70A70294750A50008E0E9 /* music1.mp3 in Resources */,
 				0C1A94C12936C2EA00CA9BD2 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
